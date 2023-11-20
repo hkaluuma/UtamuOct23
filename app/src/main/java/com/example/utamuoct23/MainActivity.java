@@ -11,7 +11,6 @@ public class MainActivity<gotSound> extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-
         /*multiline comment */
         //instantiate
         Dog dogobj =  new Dog();
